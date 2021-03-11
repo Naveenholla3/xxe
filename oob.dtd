@@ -16,7 +16,7 @@
     <content type="application/xml">
       <m:properties>
         <d:Id>51ebc30c-770f-4b2e-aca5-471d1a803f83</d:Id>
-        <d:Name>21 auggg_xss%u003csvg%u003e\u003csvg\u003e<svg></svg></d:Name>
+        <d:Name>21 auggg_xss%u003csvg%u003e\u003csvg\u003etesr<svg></svg></d:Name>
         <d:DataPeriod>8/1/2019</d:DataPeriod>
       </m:properties>
     </content>
